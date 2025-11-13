@@ -1,4 +1,2 @@
 .env
-# Ajoute d'autres fichiers à ignorer si nécessaire
-# Par exemple pour éviter de committer les notebooks contenant des secrets
-# script.ipynb
+
